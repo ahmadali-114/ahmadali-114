@@ -78,11 +78,3 @@
 </div>
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmadali-114/ahmadali-114/pacman-output/puzzle-bobble-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmadali-114/ahmadali-114/pacman-output/puzzle-bobble-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ahmadali-114/ahmadali-114/pacman-output/puzzle-bobble-contribution-graph.svg">
-</picture>
-
-###
